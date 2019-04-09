@@ -1,2 +1,0 @@
-# Vslam
-visual slam
